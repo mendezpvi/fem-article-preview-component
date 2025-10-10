@@ -37,7 +37,7 @@ Users should be able to:
 
 - [Live site](https://mendezpvi.github.io/fem-article-preview-component/)
 
-<!-- - [Frontend Mentor solution](https://your-solution-url.com) -->
+- [Frontend Mentor solution](https://www.frontendmentor.io/solutions/article-preview-component-responsive-layout-accessible-interactions-8IWuCGZeXM)
 
 ## 🛠️ My process
 
